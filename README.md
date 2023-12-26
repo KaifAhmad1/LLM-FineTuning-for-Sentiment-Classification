@@ -1,4 +1,4 @@
-# Financial News Sentiment Analysis
+# Financial News Sentiment Analysis Fine Tuning 
 
 ## Overview
 This repo contains a sentiment analysis model fine-tuned on FinancialPhraseBank. Predicts sentiments (negative, neutral, positive) based on financial news headlines.
