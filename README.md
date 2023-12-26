@@ -1,11 +1,16 @@
-# LLM-FineTuning-for-Sentiment-Classification
-Dataset Info:
-This dataset (FinancialPhraseBank) contains the sentiments for financial news headlines from the perspective of a retail investor.
-The dataset contains two columns, "Sentiment" and "News Headline". The sentiment can be negative, neutral or positive.
-It has 4845 datapoints in which has 4837 has Unique Values with Corrosponding to its label class Sentiment Positive, Negative, and Neutral. 
-Data Distibution:
-Positive: 28%
-Neutral: 59% 
-Negative: 12%
+# Financial News Sentiment Analysis
 
+## Overview
+This repo contains a sentiment analysis model fine-tuned on FinancialPhraseBank. Predicts sentiments (negative, neutral, positive) based on financial news headlines.
+
+## Dataset
+- **Source:** FinancialPhraseBank
+- **Size:** 4845 datapoints, 4837 unique
+- **Sentiments (%):**
+  - Positive: 28%
+  - Neutral: 59%
+  - Negative: 12%
+
+## Model Fine-Tuning
+Explore the fine-tuning of a Large Language Model (LLM) for sentiment classification on financial news.
 
