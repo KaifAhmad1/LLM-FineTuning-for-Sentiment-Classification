@@ -5,12 +5,12 @@ The code aims to develop an efficient **`sentiment analysis`** model for **`fina
 
 ### Dataset
 - **Source:** "/content/drive/MyDrive/all_financial_sentiment_data.csv"
-- **Size:** 4846 entries, 2 columns ("sentiment," "text")
+- **Size:** **`4846 entries, 2 columns ("sentiment," "text")`**
   
 **Data Info:** 
 - No missing values.
-- **Columns:** "sentiment" and "text" (object type).
-- **Label Distribution:** "Neutral" (2879), "Positive" (1363), "Negative" (604).
+- **Columns:** **`"sentiment" and "text" (object type).`**
+- **Label Distribution:** **`"Neutral" (2879), "Positive" (1363), "Negative" (604).`**
 
 **Data Preparation:**
 - Balanced split into training and testing sets for each sentiment. Additional evaluation set created.
