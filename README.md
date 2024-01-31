@@ -49,11 +49,11 @@ The code aims to develop an efficient **`sentiment analysis`** model for **`fina
 
 
 ### Metrics Achieved after fine-tuning: 
-- Fine-tuning significantly improved overall accuracy from **`0.349 to 0.872.`**
-- Accuracy for positive sentiments increased substantially from **`0.073 to 0.970 `**after fine-tuning.
-- Accuracy for neutral sentiments slightly decreased from `0.863 to 0.800` after fine-tuning.
-- Accuracy for negative sentiments improved from **`0.110 to 0.847`** after fine-tuning.
-- The training loss reduced from **`1.410000 to 0.873800`** during fine-tuning, indicating a significant reduction in loss.
+- Fine-tuning significantly improved overall accuracy from `0.349 to 0.872.`
+- Accuracy for positive sentiments increased substantially from `0.073 to 0.970 `after fine-tuning.
+After fine-tuning, the Accuracy for neutral sentiments slightly decreased from `0.863 to 0.800`.
+- Accuracy for negative sentiments improved from `0.110 to 0.847` after fine-tuning.
+- The training loss reduced from `1.410000 to 0.873800` during fine-tuning, indicating a significant loss reduction is `38%`.
 
 
 
